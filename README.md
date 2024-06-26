@@ -9,4 +9,4 @@ El código que se adjunta funciona para consultas por autor y es extendible para
 
 La parelización implemetada permite hacer consultas en página web proporcionada sin bloquearla.  
 
-El Comando de ejecuacion de pruebas es <python prueba.py --ids 0968599020001>
+El Comando de ejecuacion de pruebas es <python prueba.py --ids 0968599020001 ...>
