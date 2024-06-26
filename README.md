@@ -5,4 +5,4 @@ el codigo usa la version 126.0.6478.115 de googgle Chrome. con el driver win32. 
 
 
 
-Comando de ejecuacion de pruebas es python prueba.py --ids 0968599020001 
+El Comando de ejecuacion de pruebas es <python prueba.py --ids 0968599020001>
